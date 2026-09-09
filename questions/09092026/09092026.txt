@@ -1,0 +1,41 @@
+Question 1 – College Fest Registration Website
+Your college is organizing a Tech & Cultural Fest 2026. Create a single webpage that students can use to view the event information and register for participation.
+The webpage should present the event details, different activities/events, an event schedule, and a registration section. Include an attractive announcement or offer section and provide a way for users to view additional information about an event. CSS requirements: The design should demonstrate:
+•	Background colour
+•	Text colour and font styling
+•	Text alignment
+•	Borders
+•	Width and height
+•	Padding and margin
+•	Styling of headings and paragraphs
+•	Styling of the registration form
+•	Different styling for buttons
+•	A visually distinct information/announcement box
+Question 2 – University Hostel Admission Page
+A university wants to create a webpage for new students looking for hostel accommodation. Design a webpage that provides useful hostel information and allows students to submit an application.The webpage should contain information about hostel facilities, available hostel options, important rules or instructions, an admission/application process, and a hostel application form.CSS requirements: Apply CSS to demonstrate:
+•	Page background and text colours
+•	Font styling    
+•	Heading and paragraph formatting
+•	Borders around important sections
+•	Proper spacing using margin and padding
+•	Width and height of selected sections
+•	Text alignment
+•	Styling of form fields
+•	Styling of buttons
+•	A separate highlighted section for important hostel information
+Question 3 – CampusKart Student Shopping Page
+Imagine that your university has launched CampusKart, an online shopping webpage exclusively for students. Create a single webpage where students can view products and place an order.
+The webpage should display product categories, product names, prices and availability. Include a special offer section, additional product information, and an order form through which students can provide their details and select a product.
+The webpage must be designed using HTML and CSS.
+CSS requirements: Your webpage should demonstrate:
+•	Background colour
+•	Text and font styling
+•	Alignment of content
+•	Borders
+•	Margin and padding
+•	Width and height
+•	Styling of product/information sections
+•	Styling of form elements
+•	Attractive button design
+•	A highlighted special-offer section
+Use suitable HTML elements and create your own sample products and information. No actual payment functionality is required.
