@@ -1,0 +1,95 @@
+<!--
+Question 1 – College Fest Registration Website
+Your college is organizing a Tech & Cultural Fest 2026. Create a single webpage that students can use to view the event information and register for participation.
+The webpage should present the event details, different activities/events, an event schedule, and a registration section. Include an attractive announcement or offer section and provide a way for users to view additional information about an event. CSS requirements: The design should demonstrate:
+•   Background colour
+•   Text colour and font styling
+•   Text alignment
+•   Borders
+•   Width and height
+•   Padding and margin
+•   Styling of headings and paragraphs
+•   Styling of the registration form
+•   Different styling for buttons
+•   A visually distinct information/announcement box
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>College Fest 2026</title>
+</head>
+<body style="background-color: lightgoldenrodyellow;">
+
+<header>
+<h1>Tech & Cultural Fest 2026</h1>
+<p>Join the celebration </p>
+</header>
+
+<div>
+<div style="font-family: Arial; font-size: 16px; color: red;">
+Special Offer: Register as a group of 2+ for the event before 20 Sep and get an 50% off!
+</div>
+
+<div style="text-align: left;">
+<h2>Event Schedule</h2>
+
+<details>
+<summary><b>Day 1</b></summary>
+ Tech Hackathon
+
+<table border="1"  style="width: 100%; border: 2px;padding: 4px;">
+<tr>
+<th>Time</th>
+<th>Info</th>
+</tr>
+<tr>
+<td>2 - 8 pm</td>
+<td>Round 1</td>
+</tr>
+<tr>
+<td>8 - 9.30 pm </td>
+<td>Break</td>
+</tr>
+<tr>
+<td>9.30 - 11 pm</td>
+<td>Round 1 judging</td>
+</table>
+
+</details>
+<details>
+<summary><b>Day 2</b></summary>
+Freshers party
+</details>
+</div>
+<div style="text-align: center;">
+<h2>Registration</h2>
+<form>
+<label for="fullname">Full Name:</label>
+<input type="text" id="fullname" name="fullname" placeholder="Enter your name">
+<br><br>
+<label for="email">Email:</label>
+<input type="email" id="email" name="email" placeholder="Enter your email">
+<br><br>
+<h3>No. of members in group</h3>
+<input type="radio" id="teammem" name="teammem">
+<label for="teammem">1</label>
+<br>
+<input type="radio" id="teammem" name="teammem">
+<label for="teammem">2</label>
+<br>
+<input type="radio" id="teammem" name="teammem">
+<label for="teammem">3</label>
+<br>
+<input type="radio" id="teammem" name="teammem">
+<label for="teammem">4</label>
+<br><br>
+
+
+<button type="submit">Register Now</button>
+</div>
+</form>
+</div>
+
+</body>
+</html>
